@@ -1,32 +1,6 @@
 # Enterprise-Network-Project
-Got it\! You want the screenshots placed right where their relevant configuration or verification step is described, for immediate context. This is an excellent way to make your `README.md` highly understandable.
 
-I will remove the detailed screenshot descriptions from the final "Visuals & Verification Screenshots" section and instead, integrate each screenshot placeholder directly into its respective "Step-by-Step Configuration" or "Step-by-Step Process" section. The final "Visuals" section will be a brief summary and reminder to replace the placeholders.
-
-Here's the updated `README.md` template:
-
------
-
-### How to Create Your `README.md` on GitHub
-
-Since you've just created your GitHub account and repository, here's the simplest way to add this comprehensive `README.md` file to your project:
-
-1.  **Navigate to Your Repository:** Go to `github.com` and log in. Click on your project repository (e.g., `Enterprise-Network-Project`).
-2.  **Add a New File:** On your repository's main page, you'll see an "Add file" dropdown or a prominent "Add README" button if you haven't added one yet. Click "Add file" then select "Create new file."
-3.  **Name the File:** In the file name field, type `README.md`. GitHub will automatically recognize this name and render its content on your repository's homepage.
-4.  **Paste the Content:** Copy the entire markdown content I provide below and paste it into the large text area.
-5.  **Commit the New File:** Scroll down, add a short, descriptive commit message (e.g., "Initial project README with Phase 1 setup and design details"), and click the "Commit new file" button.
-
-That's it\! Your repository will now have a detailed `README.md` visible on its main page.
-
------
-
-````markdown
 # Enterprise Network Infrastructure Project: Phase 1 - Core Network Infrastructure & Initial Configuration
-
-![Project Status](https://img.shields.io/badge/Phase%201%20Complete-Core%20Setup-green)
-![Learning Objectives](https://img.shields.io/badge/Focus-GNS3%2C%20Topology%2C%20IP%20Addressing%2C%20Basic%20Device%20Config-blueviolet)
-![License](https://img.shields.io/badge/License-MIT-blue.svg) ## Table of Contents
 
 * [Project Overview](#project-overview)
 * [Phase 1: Core Network Infrastructure & Initial Configuration](#phase-1-core-network-infrastructure--initial-configuration)
