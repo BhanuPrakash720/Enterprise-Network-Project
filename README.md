@@ -431,9 +431,7 @@ This step automates the assignment of IP addresses, subnet masks, default gatewa
     * *Device:* HQ-CORE (L3S1 - Cisco 7200 router).
     * *Command Output:* `show ip dhcp pool`.
     * *Purpose:* Displays DHCP pool configurations, confirming the defined networks, default routers, and DNS servers.
-    * ![show ip dhcp pool Output](images/show_ip_dhcp_pool.png)
-    * *(Replace this placeholder with your actual screenshot of the CLI output.)*
-
+    *Dhcp config 2.png
 2.  **Test IP Address Assignment on VPCS (Simulated PCs):**
     * Go to each of your simulated PCs (HR PC, IT PC, Finance PC) and instruct them to obtain an IP address via DHCP.
     * For each VPCS:
